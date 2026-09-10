@@ -5,6 +5,8 @@ Aplicação web que recebe perguntas do usuário e gera respostas usando IA
 fundo animado, bolhas com gradiente, indicador de "digitando" e textarea
 que cresce com o texto (Enter envia, Shift+Enter quebra linha).
 
+![Interface do chatbot](docs/screenshot.png)
+
 - **Frontend:** React (Vite)
 - **Backend:** Python + FastAPI
 - **IA:** API do Google Gemini
